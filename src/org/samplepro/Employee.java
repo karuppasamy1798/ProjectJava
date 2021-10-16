@@ -9,6 +9,11 @@ public class Employee {
 	private void employeeId() {
 		System.out.println("EmployeeID:ME1234");
 	}
+	
+	private void emplpoyeeAddress() {
+		System.out.println("Employee Address:Thiruverkadu");
+
+	}
 
 	public static void main(String[] args) {
 
